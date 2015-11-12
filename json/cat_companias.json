@@ -1,0 +1,412 @@
+{
+	"dialogCias": {
+		"dialogCias": [{
+			"titulo": "Abu Dhabi Company for Onshore Oil Operations (ADCO)"
+		},
+		{
+			"titulo": "Addax Petroleum"
+		},
+		{
+			"titulo": "Advanced Drilling Solutions"
+		},
+		{
+			"titulo": "AGR"
+		},
+		{
+			"titulo": "AKER SOLUTION"
+		},
+		{
+			"titulo": "Anadarko Petroleum Corp"
+		},
+		{
+			"titulo": "APACHE"
+		},
+		{
+			"titulo": "APS TECHNOLOGY"
+		},
+		{
+			"titulo": "Atlas Copco"
+		},
+		{
+			"titulo": "AVA/NEWPARK DRILLING FLUIDS"
+		},
+		{
+			"titulo": "BAKER"
+		},
+		{
+			"titulo": "Benthic"
+		},
+		{
+			"titulo": "BG"
+		},
+		{
+			"titulo": "BJ Services"
+		},
+		{
+			"titulo": "Blade Energy"
+		},
+		{
+			"titulo": "BP"
+		},
+		{
+			"titulo": "Cairn"
+		},
+		{
+			"titulo": "CAMERON"
+		},
+		{
+			"titulo": "Canadian Natural Resources"
+		},
+		{
+			"titulo": "C-FER Technologies"
+		},
+		{
+			"titulo": "CHEVRON"
+		},
+		{
+			"titulo": "China Oilfield Services Ltd."
+		},
+		{
+			"titulo": "CNOOC"
+		},
+		{
+			"titulo": "CNPC"
+		},
+		{
+			"titulo": "CNPC Bohai Drilling Engineering Company Limited"
+		},
+		{
+			"titulo": "Cobalt International Energy"
+		},
+		{
+			"titulo": "ConocoPhillips"
+		},
+		{
+			"titulo": "Crescent Point Energy Corporation"
+		},
+		{
+			"titulo": "DEVON"
+		},
+		{
+			"titulo": "Devon Energy"
+		},
+		{
+			"titulo": "Drilling Innovation LLC"
+		},
+		{
+			"titulo": "ECOPETROL"
+		},
+		{
+			"titulo": "eDrilling Solutions"
+		},
+		{
+			"titulo": "ENCANA"
+		},
+		{
+			"titulo": "Energy Risk Consulting"
+		},
+		{
+			"titulo": "ENI E&P"
+		},
+		{
+			"titulo": "Enventure Global Technology"
+		},
+		{
+			"titulo": "EQT Production"
+		},
+		{
+			"titulo": "Exxon Mobil"
+		},
+		{
+			"titulo": "Fishbones AS"
+		},
+		{
+			"titulo": "FMC"
+		},
+		{
+			"titulo": "Gyrodata Inc."
+		},
+		{
+			"titulo": "HALLIBURTON"
+		},
+		{
+			"titulo": "HESS Corporation"
+		},
+		{
+			"titulo": "Huisman Equipment BV"
+		},
+		{
+			"titulo": "Human Resource Training & Competency Development Division (HRT&CDD"
+		},
+		{
+			"titulo": "HUSKY ENERGY"
+		},
+		{
+			"titulo": "Kongsberg Oil & Gas Technologies"
+		},
+		{
+			"titulo": "Kuwait Oil Company"
+		},
+		{
+			"titulo": "Liberty Oilfield Services"
+		},
+		{
+			"titulo": "Lightstream Resources Ltd."
+		},
+		{
+			"titulo": "Lloyd's Register Energy"
+		},
+		{
+			"titulo": "Maersk Oil"
+		},
+		{
+			"titulo": "Magnum Oil Tools International"
+		},
+		{
+			"titulo": "Marathon Oil Corp"
+		},
+		{
+			"titulo": "M-I SWACO"
+		},
+		{
+			"titulo": "Nabors"
+		},
+		{
+			"titulo": "National Iranian Oil Co."
+		},
+		{
+			"titulo": "National Iranian Oil Company (NIOC)"
+		},
+		{
+			"titulo": "NATIONAL OILWELL VARCO"
+		},
+		{
+			"titulo": "Noble Corporation"
+		},
+		{
+			"titulo": "OCCIDENTAL"
+		},
+		{
+			"titulo": "Oceaneering"
+		},
+		{
+			"titulo": "Oman Oil Exploration Co. E & P LLC."
+		},
+		{
+			"titulo": "OMV"
+		},
+		{
+			"titulo": "OMV Exploration/Production Ltd"
+		},
+		{
+			"titulo": "Packers Plus"
+		},
+		{
+			"titulo": "Pason Systems Corporation"
+		},
+		{
+			"titulo": "PDVSA"
+		},
+		{
+			"titulo": "PEMEX"
+		},
+		{
+			"titulo": "Petrobel"
+		},
+		{
+			"titulo": "PETROBRAS"
+		},
+		{
+			"titulo": "PetroChina"
+		},
+		{
+			"titulo": "PetroHawk Energy Corporation"
+		},
+		{
+			"titulo": "Petroleum Development of Oman"
+		},
+		{
+			"titulo": "PETROLINK"
+		},
+		{
+			"titulo": "PETRONAS"
+		},
+		{
+			"titulo": "ProTechnics"
+		},
+		{
+			"titulo": "PTT Exploration and Production Plc."
+		},
+		{
+			"titulo": "Pulse Structural Monitoring Inc"
+		},
+		{
+			"titulo": "Qarun Petroleum Company"
+		},
+		{
+			"titulo": "Qatar Petroleum"
+		},
+		{
+			"titulo": "Quail Tools"
+		},
+		{
+			"titulo": "REPSOL"
+		},
+		{
+			"titulo": "Resman"
+		},
+		{
+			"titulo": "Royal Dutch/Shell "
+		},
+		{
+			"titulo": "Sanjel Corp"
+		},
+		{
+			"titulo": "SAURI ARAMCO"
+		},
+		{
+			"titulo": "SCHLUMBERGER"
+		},
+		{
+			"titulo": "Scientific Drilling"
+		},
+		{
+			"titulo": "Sekal"
+		},
+		{
+			"titulo": "SHEAR BITS"
+		},
+		{
+			"titulo": "Shell"
+		},
+		{
+			"titulo": "Signa Engineering Corp."
+		},
+		{
+			"titulo": "SINOPEC"
+		},
+		{
+			"titulo": "SINTEF"
+		},
+		{
+			"titulo": "Slawson Exploration Co. Inc."
+		},
+		{
+			"titulo": "Smart Reamer Drilling Ltd."
+		},
+		{
+			"titulo": "Smith"
+		},
+		{
+			"titulo": "Sonangol"
+		},
+		{
+			"titulo": "Sonatrach"
+		},
+		{
+			"titulo": "Spectrum Tracer Services, llc"
+		},
+		{
+			"titulo": "Sperry-Sun Drilling Services"
+		},
+		{
+			"titulo": "Statoil"
+		},
+		{
+			"titulo": "StrataGen"
+		},
+		{
+			"titulo": "Stress Engineering Services"
+		},
+		{
+			"titulo": "Superior Energy Services"
+		},
+		{
+			"titulo": "Talisman Energy"
+		},
+		{
+			"titulo": "Tarim Oilfield Co., PetroChina"
+		},
+		{
+			"titulo": "TDE Thonhauser Data Engineering GmbH"
+		},
+		{
+			"titulo": "Technip"
+		},
+		{
+			"titulo": "Tenaris"
+		},
+		{
+			"titulo": "Tesco Corporation"
+		},
+		{
+			"titulo": "TNK-BP"
+		},
+		{
+			"titulo": "TOTAL"
+		},
+		{
+			"titulo": "Transform Software and Services, Inc."
+		},
+		{
+			"titulo": "Transocean"
+		},
+		{
+			"titulo": "Trican Completion Solutions"
+		},
+		{
+			"titulo": "Tullow Oil"
+		},
+		{
+			"titulo": "Ulterra"
+		},
+		{
+			"titulo": "Vallourec"
+		},
+		{
+			"titulo": "VAM Drilling"
+		},
+		{
+			"titulo": "Venture Production PLC"
+		},
+		{
+			"titulo": "WEATHERFORD"
+		},
+		{
+			"titulo": "Welltec"
+		},
+		{
+			"titulo": "Western Energy Products and Services"
+		},
+		{
+			"titulo": "Whiting Petroleum Corp."
+		},
+		{
+			"titulo": "Wintershall"
+		},
+		{
+			"titulo": "Wintershall Noordzee BV"
+		},
+		{
+			"titulo": "Woodside Energy Limited"
+		},
+		{
+			"titulo": "Workstrings"
+		},
+		{
+			"titulo": "X Drilling Tools"
+		},
+		{
+			"titulo": "XACT Downhole Telemetry Inc"
+		},
+		{
+			"titulo": "XTO Energy"
+		},
+		{
+			"titulo": "YPF"
+		},
+		{
+			"titulo": "Zavanna, LLC"
+		}]
+	}
+}

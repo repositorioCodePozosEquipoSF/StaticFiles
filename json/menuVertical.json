@@ -1,0 +1,65 @@
+{
+	"menuVertical":{
+		"menuVertical":[
+			{
+				"titulo":"FOO",
+				"link":"http://127.0.0.1:8080/pozosPemex/dropDownMenu/index.htm"
+			},
+			{
+				"titulo":"FOO 2",
+				"link":"#"
+			},
+			{
+				"titulo":"FOO 3",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"HIJO FOO 1",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 2",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 3",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 4",
+							"link":"#"
+						}
+						
+					]
+				}
+			},
+			{
+				"titulo":"FOO 4",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"HIJO FOO 1 DE FOO 4",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 2 DE FOO 4",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 3 DE FOO 4",
+							"link":"#"
+						},
+						{
+							"titulo":"HIJO FOO 4 DE FOO 4",
+							"link":"#"
+						}
+						
+					]
+				}
+			}
+
+		]
+	}
+}

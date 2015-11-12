@@ -1,0 +1,43 @@
+{
+	"dialogCIn": {
+		"dialogCIn": [{
+			"titulo": "Danish Technological Institute"
+		},
+		{
+			"titulo": "DRILLING TECHNOLOGY RESEARCH INSTITUTE"
+		},
+		{
+			"titulo": "Instituto Mexicano del Petroleo"
+		},
+		{
+			"titulo": "Rajiv Gandhi Inst Of Petr Tech"
+		},
+		{
+			"titulo": "Research Inst. Petr. Expl/Dev"
+		},
+		{
+			"titulo": "Research Institute of Petroleum Exploration and Development"
+		},
+		{
+			"titulo": "RPSEA"
+		},
+		{
+			"titulo": "Sandia National Laboratories"
+		},
+		{
+			"titulo": "Scientific Drilling"
+		},
+		{
+			"titulo": "Southwest Research Institute"
+		},
+		{
+			"titulo": "U.S. Department of Energy NETL"
+		},
+		{
+			"titulo": "U.S. Energy Information Administration"
+		},
+		{
+			"titulo": "Vietnam Petroleum Inst."
+		}]
+	}
+}

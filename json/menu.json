@@ -1,0 +1,146 @@
+{
+	"mapa":{
+		"mapaPrincipal":[
+			{
+				"titulo":"Home",
+				"class":"current-menu-item",
+				"link":"http://127.0.0.1:8080/pozosPemex/dropDownMenu/index.htm"
+			},
+			{
+				"titulo":"Caracterizaci&oacute;n Ejecuci&oacute;n",
+				"class":"",
+				"link":"#"
+			},
+			{
+				"titulo":"Centro Excelencia",
+				"class":"parent",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"Infraestructura Visualizaci&oacute;n",
+							"class":"icon-wrench",
+							"link":"#"
+						},
+						{
+							"titulo":"Software",
+							"class":"icon-credit-card",
+							"link":"#"
+						},
+						{
+							"titulo":"Distribuci&oacute;n",
+							"class":"icon-gift",
+							"link":"#"
+						},
+						{
+							"titulo":"Seguimiento y control",
+							"class":"icon-gift",
+							"link":"#"
+						}
+						
+					]
+				}
+			},
+			{
+				"titulo":"Par&aacute;metros de referencia",
+				"class":"parent",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"Selecci&oacute;n estad&iacute;stica",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Definir tiempos y costos",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Crear intervenci&oacute;n",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Documentar matriz",
+							"class":"",
+							"link":"#"
+						}
+						
+					]
+				}
+			},
+			{
+				"titulo":"Indicadores del negocio",
+				"class":"parent",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"Operativos",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Estrat&eacute;gicos",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Negocio",
+							"class":"",
+							"link":"#"
+						}
+						
+					]
+				}
+			},
+			{
+				"titulo":"Perforaci&oacute;n, terminaci&oacute;n, reparaci&oacute;n virtual",
+				"class":"parent",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"Comparar matriz",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"&Aacute;reas de oportunidad",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Desarrollar perforaci&oacute;n, terminaci&oacute;n, reparaci&oacute;n virtual",
+							"class":"",
+							"link":"#"
+						}
+						
+					]
+				}
+			},
+			{
+				"titulo":"Intervenci&oacute;n a pozos futura",
+				"class":"parent",
+				"link":"#",
+				"ul":{
+					"menuitem":[
+						{
+							"titulo":"Analizar tiempos de movimiento",
+							"class":"",
+							"link":"#"
+						},
+						{
+							"titulo":"Analizar relaci&oacute;n de esperas",
+							"class":"",
+							"link":"#"
+						}
+						
+					]
+				}
+			}
+		]
+	}
+}
